@@ -1,4 +1,4 @@
-i pput stuff here
+06ohsix music files + old nexketch music + art files
 
 <!---
 nexketch/nexketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
